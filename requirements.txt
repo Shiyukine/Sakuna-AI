@@ -1,0 +1,13 @@
+mlx>=0.10.0
+mlx-vlm
+mlx-whisper
+mss
+pyvts
+sounddevice
+silero-vad
+python-dotenv
+numpy
+opencv-python
+pynput
+pyautogui
+
